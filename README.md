@@ -1,9 +1,3 @@
-/****************************************************************
-*   Project 1 
-*   CSCE4550 Summer 2019
-*   Tuyet Pham 
-*****************************************************************/
-
 ----> PLEASE READ BEFORE RUNNING <----
 (1) Make sure you have all the files : 
              =main.cpp, resources.h
