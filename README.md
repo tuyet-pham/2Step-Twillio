@@ -10,19 +10,19 @@
 	     - twilioresources.h<br>
              - Makefile<br>
 
-2. Program will add a password list called '.passwdlist.txt' to your directory. This will ensure the hashed password are consistent. So do not add your own.
+2. Program will add a password list called `.passwdlist.txt` to your directory. This will ensure the hashed password are consistent. So do not add your own.
 
 3. You will need to 'Add Account' first in order to log in with your newly created account.
 
 4. Makefile is included.
 
-5. 'make clean_all' to delete all files except for the Makefile so be careful when using. This will also remove twilio. 
+5. `make clean_all` to delete all files except for the Makefile so be careful when using. This will also remove twilio. 
 
 6. You will need python 3.6
 
 7. You will need to install pip3
 
-8. You will need to install twilio manually or invoke 'make twilio'. The program will run without twilio library installed, but you will not get the message so make sure to install.
+8. You will need to install twilio manually or invoke `make twilio`. The program will run without twilio library installed, but you will not get the message so make sure to install.
 
 ---
 
