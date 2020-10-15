@@ -4,11 +4,11 @@
 <br>
 
 1. Make sure you have all the files : 
-             =main.cpp, resources.h
-             =sms.h, sms.cpp
-             =.twiliosms.py
-	     =twilioresources.h
-             =Makefile
+             - main.cpp, resources.h
+             - sms.h, sms.cpp
+             - .twiliosms.py
+	     - twilioresources.h
+             - Makefile
 
 2. Program will add a password list called '.passwdlist.txt' to your directory. This will ensure the hashed password are consistent. So do not add your own.
 
