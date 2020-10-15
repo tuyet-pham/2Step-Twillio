@@ -1,3 +1,5 @@
+> https://www.youtube.com/watch?v=IoV57uTw7Es
+
 ----> PLEASE READ BEFORE RUNNING <----
 (1) Make sure you have all the files : 
              =main.cpp, resources.h
@@ -20,7 +22,6 @@
 
 (8) You will need to install twilio manually or invoke 'make twilio'. The program will run without twilio library installed, but you will not get the message so make sure to install.
 
-(9) Please refer to https://www.youtube.com/watch?v=IoV57uTw7Es&feature=youtu.be to see the process on my phone as the API only works for verified phone numbers. That feature costs 20$. :(
 
 
 *****************************************************************/
