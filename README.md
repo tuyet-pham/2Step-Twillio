@@ -1,6 +1,6 @@
 > Link to demonstrations https://www.youtube.com/watch?v=IoV57uTw7Es
 
-**----> PLEASE READ BEFORE RUNNING <----**
+### Please read before running!
 <br>
 
 1. Make sure you have all the files :<br>
@@ -24,23 +24,22 @@
 
 8. You will need to install twilio manually or invoke 'make twilio'. The program will run without twilio library installed, but you will not get the message so make sure to install.
 
+---
 
-
-*****************************************************************/
-*****************************************************************/
-
-<>> Procedure for python and pip. Skip if not needed <<>
+### <>> Procedure for python and pip. Skip if not needed <<>
+`
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install python3.6
 $ sudo apt install python3-pip
-
+`
 <>> Procedure for program <<>
+`
 $ make twilio 
 $ make 
 $ ./autho 
 $ make clean 
-
+`
 <>> In addition <<>
 $ make clean_all 
 
