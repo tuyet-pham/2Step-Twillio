@@ -27,21 +27,27 @@
 ---
 
 ### <>> Procedure for python and pip. Skip if not needed <<>
-`
+```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install python3.6
 $ sudo apt install python3-pip
-`
-<>> Procedure for program <<>
-`
+```
+---
+
+### <>> Procedure for program <<>
+```
 $ make twilio 
 $ make 
 $ ./autho 
 $ make clean 
-`
-<>> In addition <<>
-$ make clean_all 
+```
 
+---
+
+### <>> In addition <<>
+```
+$ make clean_all 
+```
 
 
